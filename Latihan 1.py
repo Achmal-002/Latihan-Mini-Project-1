@@ -7,3 +7,4 @@ def a(angka):
 angka = int(input("Masukkan Sebuah Angka : "))
 print("Angka ini", a(angka))
 print("akmal nakal")
+print("rizqi rajin")
